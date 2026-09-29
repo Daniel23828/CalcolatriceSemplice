@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calcolatrice</string>
+    <string name="button_label_plus">+</string>
+    <string name="button_label_minus">-</string>
+    <string name="button_label_times">*</string>
+    <string name="button_label_divide">/</string>
+    <string name="text_first_number">Primo Numero</string>
+    <string name="text_second_number">Secondo Numero</string>
+    <string name="editText_first_number">\n</string>
+    <string name="editText_second_number" />
+    <string name="textview_result">Risultato</string>
+    <string name="editText_result" />
+</resources>
